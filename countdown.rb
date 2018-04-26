@@ -13,8 +13,3 @@ end
 def countdown_with_sleep(units)
   sleep(units)
 end
-
-#start_time = Time.now
-#end_time = start_time + 25
-#puts start_time
-#puts end_time
