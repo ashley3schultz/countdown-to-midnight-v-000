@@ -11,7 +11,7 @@ def countdown(seconds)
 end
 
 def countdown_with_sleep(units)
-  sleep 5
+  sleep(units)
 end
 
 #start_time = Time.now
